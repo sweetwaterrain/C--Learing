@@ -34,5 +34,6 @@ int main(int argc, char const *argv[])
         cout<<"您认为是烂片"<<endl;
         break;
     }
+    system("pause");
     return 0;
 }
