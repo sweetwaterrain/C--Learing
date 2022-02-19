@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "E:\\vs\\VsCodeProject\\C++Learing\\include"
             ],
             "defines": [
                 "_DEBUG",
